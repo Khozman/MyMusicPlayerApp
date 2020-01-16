@@ -62,9 +62,12 @@ public class MainActivity extends AppCompatActivity {
         if(!isMusicPlayerInit){
             final ListView listView = findViewById(R.id.listView);
 
+
             isMusicPlayerInit = true;
         }
 
     }
+
+
 
 }
